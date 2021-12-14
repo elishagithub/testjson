@@ -1,11 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"login": [{
+		"id": 1,
+		"username": "sureshc5551@gmail.com",
+		"password": 123987987
+	}, {
+		"id": 2,
+		"username": "sha.gsmile@gmail.com",
+		"password": 123987123
+	}],
+	"profile": {
+		"name": "Suresh",
+		"phone": 8884111241,
+		"email": "sureshc5551 @gmail.com"
+	}
 }
