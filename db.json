@@ -6,16 +6,4 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" },
-  "login": [
-    { "id": 1, "username": "sureshc5551@gmail.com", "password": "Wipro@123987456" },
-    { "id": 2, "username": "sha.gsmile@gmail.com", "password": "Elisha@123987456" }
-  ],
-   "otp": [
-    { "id": 1, "otp": 123987 },
-    { "id": 2, "otp": 123456 }
-  ],
-   "signup": [
-    { "id": 1, "username": "sureshc5551@gmail.com", "cansignup": true },
-    { "id": 2, "username": "sha.gsmile@gmail.com", "cansignup": true }
-  ],
 }
